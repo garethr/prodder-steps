@@ -1,4 +1,4 @@
-# Prodder::Steps
+# Prodder Steps
 
 [Prodder](https://github.com/garethr/prodder/) is a set of cucumber
 features for testing various aspects of web application security. This
