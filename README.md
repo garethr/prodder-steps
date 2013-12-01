@@ -4,7 +4,9 @@
 features for testing various aspects of web application security. This
 gem contains the steps used in Prodder and is intended to make writing
 your own opinionated set of features easier.
- 
+
+[![Build Status](https://secure.travis-ci.org/garethr/prodder-steps.png)](http://travis-ci.org/garethr/prodder-steps) 
+
 
 ## Installation
 
